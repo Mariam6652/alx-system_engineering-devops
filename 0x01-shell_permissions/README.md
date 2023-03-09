@@ -6,4 +6,6 @@ script that creates an empty file called hello
 script that adds execute permission to the owner of the file hello
 script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 script that adds execution permission to the owner, the group owner and the other users, to the file hello
-script that sets the permission to the file hello as follows:Owner, Group: no permission at all   users: all the permissionsWrite a script that sets the mode of the file hello to this: -rwxr-x-wx 
+script that sets the permission to the file hello as follows:Owner, Group: no permission at all   users: all permissions
+script that sets the mode of the file hello to this: -rwxr-x-wx
+script that sets the mode of the file hello the same as olleh’s mode
