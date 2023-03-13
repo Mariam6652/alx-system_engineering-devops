@@ -1,2 +1,2 @@
 #!/bin/bash
-tail  /erc/passwd
+tail --10 /erc/passwd
