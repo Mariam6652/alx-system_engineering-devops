@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 10 /erc/passwd
+tail  10 /erc/passwd
